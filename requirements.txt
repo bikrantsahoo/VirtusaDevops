@@ -1,0 +1,5 @@
+click==8.0.3         
+pytest>=6.0.0       
+pytest-cov>=2.10.0  
+loguru>=0.5.3       
+pydantic>=1.8.2     
