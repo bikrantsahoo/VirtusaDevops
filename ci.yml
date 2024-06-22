@@ -3,10 +3,10 @@ name: Build, Test, and Deploy
 on:
   push:
     branches:
-      - main  # Triggers on push to the main branch
+      - main 
   pull_request:
     branches:
-      - main  # Triggers on pull request to the main branch
+      - main
 
 jobs:
   build:
